@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "boardinit.h": "c",
+        "ch32v00x_misc.h": "c"
+    }
+}
