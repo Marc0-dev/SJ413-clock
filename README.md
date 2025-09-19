@@ -1,30 +1,30 @@
 # SJ413-clock
 **DISCLAMER** 
--The PCB dimensions are approximate, the position of the screw holes is not correct, feel free to contribute in this regard.
--You must have the original plastic casing to assemble the clock
--Pointers are much appreciated(i'm still an amateur in electronics)
--this project is not complete(it may change and improve in the future)
+1.The PCB dimensions are approximate, the position of the screw holes is not correct, feel free to contribute in this regard.
+2.You must have the original plastic casing to assemble the clock
+3.Pointers are much appreciated(i'm still an amateur in electronics)
+4.this project is not complete(it may change and improve in the future)
 
 The project is a replacement of the original suzuki sj-413 dashboard clock. All code on these repository is made using platformIO, leveraging the inexpensive wch ch32v003f4p6 MCU.
 List of components(lcsc part numbers):
-C1(100nf): C14663, 
-C2(1uf): C28322, 
-C3(470uf):C5162352, 
-C4(330uf):C3032175, 
-C5(12pf):C76948, 
-C6(100nf):C14663, 
-D1:C5357977, 
-D2:C552776, 
-J1(oled display connector), 
-J2(wch-linke interface), 
-J4(molex connector for rtc), 
-J5(power connector), 
-R1(4k7):C99782, 
-R2(4k7):C99782, 
-U1(mcu):C5187096, 
-U2(buck converter):C2681226, 
-U3(real time clock):C7440, 
-Y1:C90945, 
+1.C1(100nf): C14663, 
+2.C2(1uf): C28322, 
+3.C3(470uf):C5162352, 
+4.C4(330uf):C3032175, 
+5.C5(12pf):C76948, 
+6.C6(100nf):C14663, 
+7.D1:C5357977, 
+8.D2:C552776, 
+9.J1(oled display connector), 
+10.J2(wch-linke interface), 
+11.J4(molex connector for rtc), 
+12.J5(power connector), 
+13.R1(4k7):C99782, 
+14.R2(4k7):C99782, 
+15.U1(mcu):C5187096, 
+16.U2(buck converter):C2681226, 
+17.U3(real time clock):C7440, 
+18.Y1:C90945, 
 
 display used: C5248081, 
 
