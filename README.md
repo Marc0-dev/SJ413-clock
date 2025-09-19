@@ -1,9 +1,9 @@
 # SJ413-clock
 **DISCLAMER** 
 The PCB dimensions are approximate, the position of the screw holes is not correct, feel free to contribute in this regard.
-You must have the original plastic casing to assemble the clock
-Pointers are much appreciated(i'm still an amateur in electronics)
-this project is not complete(it may change and improve in the future)
+You must have the original plastic casing to assemble the clock.
+Pointers are much appreciated(i'm still an amateur in electronics).
+This project is not complete(it may change and improve in the future).
 
 The project is a replacement of the original suzuki sj-413 dashboard clock. All code on these repository is made using platformIO, leveraging the inexpensive wch ch32v003f4p6 MCU.
 List of components(lcsc part numbers):
