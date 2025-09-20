@@ -4,6 +4,7 @@ The PCB dimensions are approximate, the position of the screw holes is not corre
 You must have the original plastic casing to assemble the clock.
 Pointers are much appreciated(i'm still an amateur in electronics).
 This project is not complete(it may change and improve in the future).
+<img width="681" height="763" alt="immagine" src="https://github.com/user-attachments/assets/98e6de28-094b-4de6-9a5e-ae5b6f957bfd" />
 
 The project is a replacement of the original suzuki sj-413 dashboard clock. All code on these repository is made using platformIO, leveraging the inexpensive wch ch32v003f4p6 MCU.
 List of components(lcsc part numbers):
