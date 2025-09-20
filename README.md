@@ -28,7 +28,7 @@ U2(buck converter):C2681226, <br />
 U3(real time clock):C7440, <br />
 Y1:C90945, <br />
 display used: C5248081, <br />
-#external connection
+# external connection
 ![connector](https://github.com/user-attachments/assets/f634ac46-edff-462f-b546-d8d522e51234)
 you should use only the top row of the connector: the left one is positive, the right one is negative
 #Images(from previous iteration, without reverse current protection):
